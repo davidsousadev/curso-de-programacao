@@ -1,0 +1,1 @@
+# 03 - Tipos de dados básicos :  `int` (números inteiros), `float` (números decimais), `str` (texto), `bool` (verdadeiro/falso).

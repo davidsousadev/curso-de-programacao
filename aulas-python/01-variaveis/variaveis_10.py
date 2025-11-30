@@ -1,0 +1,1 @@
+# 10 - Introdução a variáveis compostas: Listas e dicionários simples: `lista = [1,2,3]`, `dicionario = {"nome":"Ana"}`.
