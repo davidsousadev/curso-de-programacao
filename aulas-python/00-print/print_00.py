@@ -1,5 +1,37 @@
 # 00 - Funçāo print
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 print()
 print(end="\n")
 print(sep="")

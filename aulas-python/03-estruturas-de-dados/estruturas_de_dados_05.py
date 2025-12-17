@@ -2,4 +2,4 @@
 
 cores = frozenset({"Vermelho", "Verde", "Azul"})
 print(cores)
-cores.add("Amarelo") # Erro
+# cores.add("Amarelo") # Erro
